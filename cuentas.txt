@@ -1,0 +1,121 @@
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+25000-------ahorros-------123456
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Angela Carrillo *1974-05-09 *222 *320 *Cra 20
+Hernando Hurtado *1970-06-29 *333 *321 *Calle 5
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+1000000-----corriente-------75000
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Sneyder Sanchez *1998-04-20 *111 *341 *Cra 50
+JuliÃ¡n MÃ©ndez *2000-04-25 *111 *348 *Cra 50
+Sara De la Rosa *2010-12-13 *111 *312 *Cra 50
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+258300-------ahorros-------222333
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Estefania De la Rosa *2009-01-02 *400 *310 *Clle 58
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+458963-------ahorros-------654321
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Sara Ramirez *1990-04-01 *598 *874 *Cra 80
+David Aldana *1985-06-19 *598 *875 *Calle 80
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+2000000-----corriente-------85000
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Sandra Algarin *1963-05-20 *111 *351 *Cra 50
+Hector Burgos *1962-04-25 *111 *358 *Cra 50
+Catalina Burgos *2006-11-23 *111 *352 *Cra 50
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+558350-------ahorros-------111555
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Andrea Salazar *2000-03-25 *500 *315 *Clle 58
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+758965-------ahorros-------555321
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Camila Aguirre *2002-08-07 *598 *987 *Cra 59
+Jessica Guevara *2002-03-19 *598 *986 *Calle 83
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+2250000-----corriente-------80050
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Damaris Arroyo *1962-04-30 *111 *359 *Cra 85
+Luis Bermudez *1964-02-05 *111 *666 *Cra 85
+Diana Bermudez *1995-04-14 *111 *963 *Cra 83
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+858555-------ahorros-------753951
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Natalia Libreros *2000-12-15 *980 *120 *Clle 23
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+456973-------ahorros-------859301
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Erika Novoa *2002-04-10 *599 *812 *Cra 45
+Santiago Bustos *2001-05-08 *159 *753 *Calle 89
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+2005500-----corriente-------96500
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Dylan Rojas *1986-07-26 *111 *371 *Cra 51
+Daniel Chacon *1996-04-22 *121 *368 *Cra 52
+Carlos Jimenez *1999-12-23 *131 *752 *Cra 53
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+669461-------ahorros-------456987
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Andres Ochoa *2000-09-15 *850 *124 *Clle 59
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+869076-------ahorros-------666456
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Laura Burgos *2002-06-17 *599 *417 *Cra 60
+Sofia Burgos *2004-10-05 *599 *418 *Calle 60
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+3360000-----corriente-------91161
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Coralia Morales *1974-05-15 *789 *400 *Cra 7
+Alfredo Ortiz *1970-03-06 *789 *401 *Cra 7
+Camilo Ortiz *1995-04-14 *789 *402 *Cra 7
+0
+#Cuenta
+#Saldo------Tipo---------Tarjeta/Sobregiro
+969666-------ahorros-------864062
+#Titulares
+#nombre----------fecha Nacimiento----TelFijo-----Celular---Direccion
+Gabriel Sanchez *1985-12-24 *989 *121 *Clle 73
+0
+#FIN
