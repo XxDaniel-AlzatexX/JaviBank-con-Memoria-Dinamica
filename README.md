@@ -1,2 +1,2 @@
 # JaviBank-con-Memoria-Dinamica
-Proyecto realizado en el 2021. Consiste en un sistema bancario realizado en c++ y se utilizan apuntadores y memoria dinámica.
+Project carried out in 2021. It consists of a banking system made in c++ and pointers and dynamic memory are used. Project already finished.
